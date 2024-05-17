@@ -1,5 +1,5 @@
 {
-    "name": "Ultraviolet-Devel",
+    "name": "Google Sheets",
     "build": {
       "dockerfile": "../docker/Dockerfile",
       "target": "devel",
